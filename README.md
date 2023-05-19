@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mona_Lisa.jpg/400px-Mona_Lisa.jpg" width="600" height="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mona_Lisa.jpg/400px-Mona_Lisa.jpg" width="400" height="600"/>
 </div>
 ### :woman_technologist: About Me :
 I am a Fr Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
